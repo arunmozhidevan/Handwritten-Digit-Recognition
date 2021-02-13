@@ -31,20 +31,7 @@ This is probably one of the most popular datasets among machine learning and dee
 [<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/tensorflow/images/lockup.svg" height=50>](https://www.tensorflow.org/) [<img target="_blank" src="https://keras.io/img/logo-small.png" height=50>](https://keras.io/) [<img target="_blank" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height=50>](https://matplotlib.org/stable/index.html)
 ## Directory Tree 
 ```
-├── static
-│   ├── favicon.png
-│   ├── profileimage.jpg
-├── templates
-│   ├── base.html
-│   ├── home.html
-│   ├── recommend.html
-├── Procfile
+├── Handwritten_Digit_Recognition.ipynb
 ├── README.md
-├── Stage_2.ipynb
-├── Stage_3.ipynb
-├── app.yaml
-├── main.py
-├── main_data.csv
-├── requirements.txt
-├── stage_1.ipynb
+├── mnist.h5
 ```
