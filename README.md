@@ -26,3 +26,25 @@ This is probably one of the most popular datasets among machine learning and dee
 
 7. Plot the graph of Accuracy vs Loss
 <img target="_blank" src="https://64.media.tumblr.com/9ecabb1af0cdc7c252509500c0aa12da/efd72c215d3a98aa-8a/s1280x1920/ec4cd53c00a841be55f16bde9dc209ea8ddc0375.png">
+
+## Technologies Used
+[<img target="_blank" src="https://www.gstatic.com/devrel-devsite/prod/vbd0faab6c0701e17b2f66039dd03326fc0e1627ecbcddaec4cd383df8dda622c/tensorflow/images/lockup.svg" height=50>](https://www.tensorflow.org/) [<img target="_blank" src="https://keras.io/img/logo-small.png" height=50>](https://keras.io/) [<img target="_blank" src="https://matplotlib.org/stable/_static/logo2_compressed.svg" height=50>](https://matplotlib.org/stable/index.html)
+## Directory Tree 
+```
+├── static
+│   ├── favicon.png
+│   ├── profileimage.jpg
+├── templates
+│   ├── base.html
+│   ├── home.html
+│   ├── recommend.html
+├── Procfile
+├── README.md
+├── Stage_2.ipynb
+├── Stage_3.ipynb
+├── app.yaml
+├── main.py
+├── main_data.csv
+├── requirements.txt
+├── stage_1.ipynb
+```
